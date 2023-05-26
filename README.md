@@ -1,7 +1,6 @@
 # YouTube Clone Website
 
 This site is hosted on : [Click Here to Visit Site](https://ytcloneshrey.netlify.app/).
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 
 ## Screenshots
@@ -29,8 +28,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 * BootStrap
 * API by RapidApi
 
-## Available Scripts
 
+## Available Scripts
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 In the project directory, you can run:
 
 ### `npm start`
