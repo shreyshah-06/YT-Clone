@@ -24,9 +24,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Technologies Used
 
-* [ReactJs]
-* [MaterialUI]
-* [BootStrap]
+* ReactJs
+* MaterialUI
+* BootStrap
+* API by RapidApi
 
 ## Available Scripts
 
