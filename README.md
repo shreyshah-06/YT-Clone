@@ -8,7 +8,7 @@ This site is hosted on : [Click Here to Visit Site](https://ytcloneshrey.netlify
 ![image](https://github.com/shreyshah-06/YT-Clone/assets/96236688/388834a4-504f-4059-9092-120a32a79a0d)
 ### *Home Page*
 ![image](https://github.com/shreyshah-06/YT-Clone/assets/96236688/0d0cd525-522b-4e39-9ba7-e1a8be2ef58e)
-### *Exploring varius categories*
+### *Exploring various categories*
 ![image](https://github.com/shreyshah-06/YT-Clone/assets/96236688/c2753a38-d2be-4035-92c9-46305af0c358)
 ### *Searching for specific content*
 ![image](https://github.com/shreyshah-06/YT-Clone/assets/96236688/aa0e8741-0d51-4c58-bd4a-c2190dea4e59)
