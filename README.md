@@ -7,7 +7,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Screenshots
 
 ![image](https://github.com/shreyshah-06/YT-Clone/assets/96236688/388834a4-504f-4059-9092-120a32a79a0d)
-###*Home Page*</h3>
+###*Home Page*
 ![image](https://github.com/shreyshah-06/YT-Clone/assets/96236688/0d0cd525-522b-4e39-9ba7-e1a8be2ef58e)
 ###*Exploring varius categories*
 ![image](https://github.com/shreyshah-06/YT-Clone/assets/96236688/c2753a38-d2be-4035-92c9-46305af0c358)
