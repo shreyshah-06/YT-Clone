@@ -11,10 +11,22 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ![image](https://github.com/shreyshah-06/YT-Clone/assets/96236688/0d0cd525-522b-4e39-9ba7-e1a8be2ef58e)
 ### *Exploring varius categories*
 ![image](https://github.com/shreyshah-06/YT-Clone/assets/96236688/c2753a38-d2be-4035-92c9-46305af0c358)
+### *Searching for specific content*
 ![image](https://github.com/shreyshah-06/YT-Clone/assets/96236688/aa0e8741-0d51-4c58-bd4a-c2190dea4e59)
+### *Content of the feed in a paginated manner*
 ![image](https://github.com/shreyshah-06/YT-Clone/assets/96236688/621a868d-524b-4286-8481-1ef52da69669)
+### *Player playing a specifc video with suggestion similar to the videos on the right sidebar*
 ![image](https://github.com/shreyshah-06/YT-Clone/assets/96236688/f2dee7c2-9a6a-4737-a392-380815e34fa3)
+### *Basic details about the video: Views,Likes and Description*
 
+## API Used
+### For this project I have made use of the YouTube API by RapidAPI . This Api helped me to get all the data which is being displayed on the site.
+
+## Technologies Used
+
+* [ReactJs]
+* [MaterialUI]
+* [BootStrap]
 
 ## Available Scripts
 
